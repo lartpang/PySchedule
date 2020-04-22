@@ -19,3 +19,8 @@ A small deadline countdown tool, but it is still in the stage of the command lin
 
 * python 3
 * python-dateutil
+
+## 参考
+
+* 关于datetime模块：https://zhuanlan.zhihu.com/p/43349287
+* 关于命令行参数使用：https://blog.csdn.net/weixin_35653315/article/details/72886718

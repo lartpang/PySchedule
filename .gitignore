@@ -1,6 +1,7 @@
 # 我的一些输出文件
 test.json
 .vscode/
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
